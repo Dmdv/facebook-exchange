@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'facebook-messenger'
+gem 'httparty'
+gem 'puma'
+gem 'sinatra'
+gem 'sinatra-contrib', require: 'sinatra/reloader'
